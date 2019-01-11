@@ -1,6 +1,6 @@
-const APP_SECRET = 'you app_secret';
+const APP_SECRET = 'ee814e3b20634db7c2bb9f3109d0b11e';
 const VALIDATION_TOKEN = 'TokenTuyChon';
-const PAGE_ACCESS_TOKEN = 'your page_access_token';
+const PAGE_ACCESS_TOKEN = 'EAAFGZCtZBqcSwBAJnjoHrEfZCR9HaZBqJiwZCQS07WvISxeLn1lLIQmQuSyZBf57Yf6JDLndnJjx3S2EczeYgVZCk8EMXrUs4nTbtPGZCaj4uNOhB2C1Ygu0UGWV4BNjbXYjlVrYDGlgo1bHTABitG2WJMT8J6rA5cyjNK8UDjHA7gZDZD';
 
 var http = require('http');
 var bodyParser = require('body-parser');
